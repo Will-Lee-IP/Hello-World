@@ -1,2 +1,4 @@
 # Hello-World
-my first project
+
+Hello, world.
+This is Will Lee speaking. Remember this voice. 
